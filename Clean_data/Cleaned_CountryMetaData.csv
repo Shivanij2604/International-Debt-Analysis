@@ -1,0 +1,120 @@
+Country Code,Country Name,Long Name,Short Name,Region,Income Group,Lending category,External debt Reporting status,2-alpha code,WB-2 code
+AFG,Afghanistan,Islamic State of Afghanistan,Afghanistan,Middle East & North Africa,Low income,IDA,Estimate,AF,AF
+ALB,Albania,Republic of Albania,Albania,Europe & Central Asia,Upper middle income,IBRD,Actual,AL,AL
+DZA,Algeria,People's Democratic Republic of Algeria,Algeria,Middle East & North Africa,Upper middle income,IBRD,Actual,DZ,DZ
+AGO,Angola,People's Republic of Angola,Angola,Sub-Saharan Africa,Lower middle income,IBRD,Actual,AO,AO
+ARG,Argentina,Argentine Republic,Argentina,Latin America & Caribbean,Upper middle income,IBRD,Actual,AR,AR
+ARM,Armenia,Republic of Armenia,Armenia,Europe & Central Asia,Upper middle income,IBRD,Actual,AM,AM
+AZE,Azerbaijan,Republic of Azerbaijan,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD,Actual,AZ,AZ
+BGD,Bangladesh,People's Republic of Bangladesh,Bangladesh,South Asia,Lower middle income,IDA,Actual,BD,BD
+BLR,Belarus,Republic of Belarus,Belarus,Europe & Central Asia,Upper middle income,IBRD,Estimate,BY,BY
+BLZ,Belize,Belize,Belize,Latin America & Caribbean,Upper middle income,Blend,Actual,BZ,BZ
+BEN,Benin,Republic of Benin,Benin,Sub-Saharan Africa,Lower middle income,IDA,Actual,BJ,BJ
+BTN,Bhutan,Kingdom of Bhutan,Bhutan,South Asia,Lower middle income,IDA,Actual,BT,BT
+BOL,Bolivia,Plurinational State of Bolivia,"Bolivia, Plurinational State of",Latin America & Caribbean,Lower middle income,IBRD,Actual,BO,BO
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD,Actual,BA,BA
+BWA,Botswana,Republic of Botswana,Botswana,Sub-Saharan Africa,Upper middle income,IBRD,Actual,BW,BW
+BRA,Brazil,Federative Republic of Brazil,Brazil,Latin America & Caribbean,Upper middle income,IBRD,Actual,BR,BR
+BFA,Burkina Faso,Burkina Faso,Burkina Faso,Sub-Saharan Africa,Low income,IDA,Actual,BF,BF
+BDI,Burundi,Republic of Burundi,Burundi,Sub-Saharan Africa,Low income,IDA,Actual,BI,BI
+CPV,Cabo Verde,Republic of Cabo Verde,Cabo Verde,Sub-Saharan Africa,Upper middle income,Blend,Actual,CV,CV
+KHM,Cambodia,Kingdom of Cambodia,Cambodia,East Asia & Pacific,Lower middle income,IDA,Actual,KH,KH
+CMR,Cameroon,Republic of Cameroon,Cameroon,Sub-Saharan Africa,Lower middle income,Blend,Actual,CM,CM
+CAF,Central African Republic,Central African Republic,Central African Republic,Sub-Saharan Africa,Low income,IDA,Actual,CF,CF
+TCD,Chad,Republic of Chad,Chad,Sub-Saharan Africa,Low income,IDA,Preliminary,TD,TD
+CHN,China,People's Republic of China,China,East Asia & Pacific,Upper middle income,IBRD,Preliminary,CN,CN
+COL,Colombia,Republic of Colombia,Colombia,Latin America & Caribbean,Upper middle income,IBRD,Actual,CO,CO
+COM,Comoros,Union of the Comoros,Comoros,Sub-Saharan Africa,Lower middle income,IDA,Actual,KM,KM
+COD,"Congo, Dem. Rep.",Democratic Republic of the Congo,"Congo, Democratic Republic of",Sub-Saharan Africa,Low income,IDA,Actual,CD,ZR
+COG,"Congo, Rep.",Republic of Congo,"Congo, Republic of",Sub-Saharan Africa,Lower middle income,Blend,Actual,CG,CG
+CIV,Côte d'Ivoire,Republic of Côte d'Ivoire,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,Blend,Actual,CI,CI
+DJI,Djibouti,Republic of Djibouti,Djibouti,Middle East & North Africa,Lower middle income,IDA,Actual,DJ,DJ
+DMA,Dominica,Commonwealth of Dominica,Dominica,Latin America & Caribbean,Upper middle income,Blend,Actual,DM,DM
+DOM,Dominican Republic,Dominican Republic,Dominican Republic,Latin America & Caribbean,Upper middle income,IBRD,Actual,DO,DO
+ECU,Ecuador,Republic of Ecuador,Ecuador,Latin America & Caribbean,Upper middle income,IBRD,Preliminary,EC,EC
+EGY,"Egypt, Arab Rep.",Arab Republic of Egypt,"Egypt, Arab Republic of",Middle East & North Africa,Lower middle income,IBRD,Actual,EG,EG
+SLV,El Salvador,Republic of El Salvador,El Salvador,Latin America & Caribbean,Upper middle income,IBRD,Actual,SV,SV
+GNQ,Equatorial Guinea,Republic of Equatorial Guinea,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,IBRD,Actual,GQ,GQ
+ERI,Eritrea,State of Eritrea,Eritrea,Sub-Saharan Africa,Low income,IDA,Estimate,ER,ER
+SWZ,Eswatini,Kingdom of Eswatini,Eswatini,Sub-Saharan Africa,Lower middle income,Blend,Actual,SZ,SZ
+FJI,Fiji,Republic of Fiji,Fiji,East Asia & Pacific,Upper middle income,Blend,Actual,FJ,FJ
+GAB,Gabon,Gabonese Republic,Gabon,Sub-Saharan Africa,Upper middle income,IBRD,Actual,GA,GA
+GMB,"Gambia, The",Republic of The Gambia,"Gambia, The",Sub-Saharan Africa,Low income,IDA,Actual,GM,GM
+GEO,Georgia,Georgia,Georgia,Europe & Central Asia,Upper middle income,IBRD,Actual,GE,GE
+GHA,Ghana,Republic of Ghana,Ghana,Sub-Saharan Africa,Lower middle income,IDA,Actual,GH,GH
+GRD,Grenada,Grenada,Grenada,Latin America & Caribbean,Upper middle income,Blend,Actual,GD,GD
+GTM,Guatemala,Republic of Guatemala,Guatemala,Latin America & Caribbean,Upper middle income,IBRD,Actual,GT,GT
+GIN,Guinea,Republic of Guinea,Guinea,Sub-Saharan Africa,Lower middle income,IDA,Actual,GN,GN
+GNB,Guinea-Bissau,Republic of Guinea-Bissau,Guinea-Bissau,Sub-Saharan Africa,Low income,IDA,Actual,GW,GW
+GUY,Guyana,Co-operative Republic of Guyana,Guyana,Latin America & Caribbean,High income,IDA,Actual,GY,GY
+HTI,Haiti,Republic of Haiti,Haiti,Latin America & Caribbean,Lower middle income,IDA,Actual,HT,HT
+HND,Honduras,Republic of Honduras,Honduras,Latin America & Caribbean,Lower middle income,IDA,Actual,HN,HN
+IND,India,Republic of India,India,South Asia,Lower middle income,IBRD,Actual,IN,IN
+IDN,Indonesia,Republic of Indonesia,Indonesia,East Asia & Pacific,Upper middle income,IBRD,Actual,ID,ID
+IRN,"Iran, Islamic Rep.",Islamic Republic of Iran,"Iran, Islamic Republic of",Middle East & North Africa,Upper middle income,IBRD,Estimate,IR,IR
+IRQ,Iraq,Republic of Iraq,Iraq,Middle East & North Africa,Upper middle income,IBRD,Actual,IQ,IQ
+JAM,Jamaica,Jamaica,Jamaica,Latin America & Caribbean,Upper middle income,IBRD,Actual,JM,JM
+JOR,Jordan,Hashemite Kingdom of Jordan,Jordan,Middle East & North Africa,Lower middle income,IBRD,Actual,JO,JO
+KAZ,Kazakhstan,Republic of Kazakhstan,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD,Actual,KZ,KZ
+KEN,Kenya,Republic of Kenya,Kenya,Sub-Saharan Africa,Lower middle income,Blend,Actual,KE,KE
+XKX,Kosovo,Republic of Kosovo,Kosovo,Europe & Central Asia,Upper middle income,IDA,Actual,XK,XK
+KGZ,Kyrgyz Republic,Kyrgyz Republic,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA,Actual,KG,KG
+LAO,Lao PDR,Lao People's Democratic Republic,Lao PDR,East Asia & Pacific,Lower middle income,IDA,Actual,LA,LA
+LBN,Lebanon,Lebanese Republic,Lebanon,Middle East & North Africa,Lower middle income,IBRD,Estimate,LB,LB
+LSO,Lesotho,Kingdom of Lesotho,Lesotho,Sub-Saharan Africa,Lower middle income,IDA,Actual,LS,LS
+LBR,Liberia,Republic of Liberia,Liberia,Sub-Saharan Africa,Low income,IDA,Actual,LR,LR
+MDG,Madagascar,Republic of Madagascar,Madagascar,Sub-Saharan Africa,Low income,IDA,Actual,MG,MG
+MWI,Malawi,Republic of Malawi,Malawi,Sub-Saharan Africa,Low income,IDA,Actual,MW,MW
+MDV,Maldives,Republic of Maldives,Maldives,South Asia,Upper middle income,IDA,Actual,MV,MV
+MLI,Mali,Republic of Mali,Mali,Sub-Saharan Africa,Low income,IDA,Actual,ML,ML
+MRT,Mauritania,Islamic Republic of Mauritania,Mauritania,Sub-Saharan Africa,Lower middle income,IDA,Actual,MR,MR
+MUS,Mauritius,Republic of Mauritius,Mauritius,Sub-Saharan Africa,Upper middle income,IBRD,Actual,MU,MU
+MEX,Mexico,United Mexican States,Mexico,Latin America & Caribbean,Upper middle income,IBRD,Actual,MX,MX
+MDA,Moldova,Republic of Moldova,Moldova,Europe & Central Asia,Upper middle income,IBRD,Actual,MD,MD
+MNG,Mongolia,Mongolia,Mongolia,East Asia & Pacific,Upper middle income,IBRD,Actual,MN,MN
+MNE,Montenegro,Montenegro,Montenegro,Europe & Central Asia,Upper middle income,IBRD,Actual,ME,ME
+MAR,Morocco,Kingdom of Morocco,Morocco,Middle East & North Africa,Lower middle income,IBRD,Actual,MA,MA
+MOZ,Mozambique,Republic of Mozambique,Mozambique,Sub-Saharan Africa,Low income,IDA,Actual,MZ,MZ
+MMR,Myanmar,Republic of the Union of Myanmar,Myanmar,East Asia & Pacific,Lower middle income,IDA,Actual,MM,MM
+NPL,Nepal,Nepal,Nepal,South Asia,Lower middle income,IDA,Actual,NP,NP
+NIC,Nicaragua,Republic of Nicaragua,Nicaragua,Latin America & Caribbean,Lower middle income,IDA,Actual,NI,NI
+NER,Niger,Republic of Niger,Niger,Sub-Saharan Africa,Low income,IDA,Actual,NE,NE
+NGA,Nigeria,Federal Republic of Nigeria,Nigeria,Sub-Saharan Africa,Lower middle income,Blend,Actual,NG,NG
+MKD,North Macedonia,Republic of North Macedonia,North Macedonia,Europe & Central Asia,Upper middle income,IBRD,Actual,MK,MK
+PAK,Pakistan,Islamic Republic of Pakistan,Pakistan,Middle East & North Africa,Lower middle income,Blend,Actual,PK,PK
+PNG,Papua New Guinea,The Independent State of Papua New Guinea,Papua New Guinea,East Asia & Pacific,Lower middle income,Blend,Actual,PG,PG
+PRY,Paraguay,Republic of Paraguay,Paraguay,Latin America & Caribbean,Upper middle income,IBRD,Actual,PY,PY
+PER,Peru,Republic of Peru,Peru,Latin America & Caribbean,Upper middle income,IBRD,Actual,PE,PE
+PHL,Philippines,Republic of the Philippines,Philippines,East Asia & Pacific,Lower middle income,IBRD,Actual,PH,PH
+RWA,Rwanda,Republic of Rwanda,Rwanda,Sub-Saharan Africa,Low income,IDA,Actual,RW,RW
+WSM,Samoa,Independent State of Samoa,Samoa,East Asia & Pacific,Upper middle income,IDA,Actual,WS,WS
+STP,São Tomé and Principe,Democratic Republic of São Tomé and Principe,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,IDA,Actual,ST,ST
+SEN,Senegal,Republic of Senegal,Senegal,Sub-Saharan Africa,Lower middle income,IDA,Actual,SN,SN
+SRB,Serbia,Republic of Serbia,Serbia,Europe & Central Asia,Upper middle income,IBRD,Actual,RS,YF
+SLE,Sierra Leone,Republic of Sierra Leone,Sierra Leone,Sub-Saharan Africa,Low income,IDA,Actual,SL,SL
+SLB,Solomon Islands,Solomon Islands,Solomon Islands,East Asia & Pacific,Lower middle income,IDA,Actual,SB,SB
+SOM,"Somalia, Fed. Rep.",Federal Republic of Somalia,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,IDA,Actual,SO,SO
+ZAF,South Africa,Republic of South Africa,South Africa,Sub-Saharan Africa,Upper middle income,IBRD,Actual,ZA,ZA
+LKA,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Lanka,South Asia,Lower middle income,IDA,Actual,LK,LK
+LCA,St. Lucia,St. Lucia,St. Lucia,Latin America & Caribbean,Upper middle income,Blend,Actual,LC,LC
+VCT,St. Vincent and the Grenadines,St. Vincent and the Grenadines,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,Blend,Actual,VC,VC
+SDN,Sudan,Republic of the Sudan,Sudan,Sub-Saharan Africa,Low income,IDA,Estimate,SD,SD
+SUR,Suriname,Republic of Suriname,Suriname,Latin America & Caribbean,Upper middle income,Blend,Actual,SR,SR
+SYR,Syrian Arab Republic,Syrian Arab Republic,Syrian Arab Republic,Middle East & North Africa,Low income,IDA,Estimate,SY,SY
+TJK,Tajikistan,Republic of Tajikistan,Tajikistan,Europe & Central Asia,Lower middle income,IDA,Actual,TJ,TJ
+TZA,Tanzania,United Republic of Tanzania,Tanzania,Sub-Saharan Africa,Lower middle income,IDA,Actual,TZ,TZ
+THA,Thailand,Kingdom of Thailand,Thailand,East Asia & Pacific,Upper middle income,IBRD,Actual,TH,TH
+TLS,Timor-Leste,Democratic Republic of Timor-Leste,Timor-Leste,East Asia & Pacific,Lower middle income,Blend,Actual,TL,TP
+TGO,Togo,Republic of Togo,Togo,Sub-Saharan Africa,Low income,IDA,Actual,TG,TG
+TON,Tonga,Kingdom of Tonga,Tonga,East Asia & Pacific,Upper middle income,IDA,Actual,TO,TO
+TUN,Tunisia,Republic of Tunisia,Tunisia,Middle East & North Africa,Lower middle income,IBRD,Actual,TN,TN
+TUR,Türkiye,Republic of Türkiye,Türkiye,Europe & Central Asia,Upper middle income,IBRD,Actual,TR,TR
+TKM,Turkmenistan,Turkmenistan,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD,Actual,TM,TM
+UGA,Uganda,Republic of Uganda,Uganda,Sub-Saharan Africa,Low income,IDA,Actual,UG,UG
+UKR,Ukraine,Ukraine,Ukraine,Europe & Central Asia,Upper middle income,IBRD,Actual,UA,UA
+UZB,Uzbekistan,Republic of Uzbekistan,Uzbekistan,Europe & Central Asia,Lower middle income,Blend,Actual,UZ,UZ
+VUT,Vanuatu,Republic of Vanuatu,Vanuatu,East Asia & Pacific,Lower middle income,IDA,Actual,VU,VU
+VNM,Viet Nam,Socialist Republic of Viet Nam,Viet Nam,East Asia & Pacific,Lower middle income,IBRD,Actual,VN,VN
+YEM,"Yemen, Rep.",Republic of Yemen,"Yemen, Republic of",Middle East & North Africa,Low income,IDA,Preliminary,YE,RY
+ZMB,Zambia,Republic of Zambia,Zambia,Sub-Saharan Africa,Lower middle income,IDA,Actual,ZM,ZM
+ZWE,Zimbabwe,Republic of Zimbabwe,Zimbabwe,Sub-Saharan Africa,Lower middle income,Blend,Actual,ZW,ZW
